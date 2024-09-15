@@ -17,8 +17,11 @@ Imagine how the 6 a.m. hour drastically shifts the flow of someone's day!
 
 -Now, imagine a father named Abo-Nasser, who recently moved to Riyadh. He lives in Alsaadah neighborhood and has two children—one son attending King Saud University and a daughter at Tuwaiq Academy. Abo-Nasser works at King Khalid Airport, and every day he drives his children to their schools before heading to work. His total travel time is an exhausting 1 hour and 58 minutes! How many people like Abo-Nasser are navigating these same traffic challenges?
 -We estimate that Abo-Nasser’s experience could improve in two possible ways once the metro is operational:
-1. If Abo-Nasser uses the metro, potentially cutting down his travel time.
-2. If others use the metro, freeing up road space for those who still prefer driving, like Abo-Nasser.
+1. If Abo-Nasser uses the metro, potentially cutting down his travel time to more than half of the time!
+ <img src="abo-nasser-metro" alt="abo-nasser-metro" width="800"/>
+2. If others use the metro, freeing up road space for those who still prefer driving.
+   If we have 5000 people who will use the metro, how many cars will empty the streets? A lot!
+
 
 
 ## 👥 Team Members
