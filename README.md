@@ -13,7 +13,12 @@ What data do wee need for our analysis? We need traffic and metro data to find t
 Have you ever thought about how much difference the timing of school versus vacation can make on traffic patterns? 
 Imagine how the 6 a.m. hour drastically shifts the flow of someone's day!
 
-<img src="traffic.png" alt="Traffic seasons analysis" width="700"/>
+<img src="traffic.png" alt="Traffic seasons analysis" width="800"/>
+
+-Now, imagine a father named Abo-Nasser, who recently moved to Riyadh. He lives in Alsaadah neighborhood and has two children—one son attending King Saud University and a daughter at Tuwaiq Academy. Abo-Nasser works at King Khalid Airport, and every day he drives his children to their schools before heading to work. His total travel time is an exhausting 1 hour and 58 minutes! How many people like Abo-Nasser are navigating these same traffic challenges?
+-We estimate that Abo-Nasser’s experience could improve in two possible ways once the metro is operational:
+1. If Abo-Nasser uses the metro, potentially cutting down his travel time.
+2. If others use the metro, freeing up road space for those who still prefer driving, like Abo-Nasser.
 
 
 ## 👥 Team Members
