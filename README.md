@@ -15,10 +15,11 @@ Imagine how the 6 a.m. hour drastically shifts the flow of someone's day
 
 
 ## 👥 Team Members
-- **(Hatoon Aloqaily)[https://www.linkedin.com/in/hatoon-al-oqaily-73b808253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]** 
-- **(A'laa Alahmadi)[]**
-- **(Raghad Almalki)[]**
-- **(Saraa Almudyfer)[https://www.linkedin.com/in/sarraa-almudayfir-05918b265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]**
-- **(Wadiah Albuhairy)[https://www.linkedin.com/in/wadiah-al-buhairi-336306181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app]**
+## 👥 Team Members
+- [Hatoon Aloqaily](https://www.linkedin.com/in/hatoon-al-oqaily-73b808253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [A'laa Alahmadi]()
+- [Raghad Almalki]()
+- [Saraa Almudyfer](https://www.linkedin.com/in/sarraa-almudayfir-05918b265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Wadiah Albuhairy](https://www.linkedin.com/in/wadiah-al-buhairi-336306181?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Together, we’re driving towards a smarter, more efficient Riyadh! 🚋
