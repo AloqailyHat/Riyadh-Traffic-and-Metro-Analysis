@@ -12,7 +12,8 @@ What data do wee need for our analysis? We need traffic and metro data to find t
 ## 💡 Key Insights
 Have you ever thought about how much difference the timing of school versus vacation can make on traffic patterns? 
 Imagine how the 6 a.m. hour drastically shifts the flow of someone's day!
-<img src="traffic.png alt="Traffic seasons analysis" width="400"/>
+
+<img src="traffic.png" alt="Traffic seasons analysis" width="400"/>
 
 
 ## 👥 Team Members
