@@ -24,11 +24,13 @@ Imagine how the 6 a.m. hour drastically shifts the flow of someone's day!
 2. If others use the metro, freeing up road space for those who still prefer driving.
    If we have 5000 people who will use the metro, how many cars will empty the streets? A lot!
    Here are examples of going from different directions to Tuwaiq Academy ;)
-    <img src=".png" alt="abo-nasser-metro" width="600"/>
-    <img src=".png" alt="abo-nasser-metro" width="600"/>
-    <img src=".png" alt="abo-nasser-metro" width="600"/>
+    <img src="ex1.png" alt="metro1" width="600"/>
+    <img src="ex2.png" alt="metro2" width="600"/>
+    <img src="ex3.png" alt="metro3" width="600"/>
 
+We will continue to analyze how the metro can reduce traffic and assess whether our estimations align with the real impact once the metro becomes operational.
 
+- [Demo]()
 
 
 ## 👥 Team Members
