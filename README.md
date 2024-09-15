@@ -19,10 +19,15 @@ Imagine how the 6 a.m. hour drastically shifts the flow of someone's day!
 -We estimate that Abo-Nasser’s experience could improve in two possible ways once the metro is operational:
 1. If Abo-Nasser uses the metro, potentially cutting down his travel time to more than half of the time!
 
- <img src="abo-nasser-metro.png" alt="abo-nasser-metro" width="800"/>
+ <img src="abo-nasser-metro.png" alt="abo-nasser-metro" width="600"/>
  
 2. If others use the metro, freeing up road space for those who still prefer driving.
    If we have 5000 people who will use the metro, how many cars will empty the streets? A lot!
+   Here are examples of going from different directions to Tuwaiq Academy ;)
+    <img src=".png" alt="abo-nasser-metro" width="600"/>
+    <img src=".png" alt="abo-nasser-metro" width="600"/>
+    <img src=".png" alt="abo-nasser-metro" width="600"/>
+
 
 
 
